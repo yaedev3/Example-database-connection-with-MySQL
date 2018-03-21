@@ -1,0 +1,13 @@
+C:\Users\jason\Dropbox\UASLP\7 Semestre\Software B\dataBaseExample\dataBaseExample\bin\Debug\dataBaseExample.exe.config
+C:\Users\jason\Dropbox\UASLP\7 Semestre\Software B\dataBaseExample\dataBaseExample\bin\Debug\dataBaseExample.exe
+C:\Users\jason\Dropbox\UASLP\7 Semestre\Software B\dataBaseExample\dataBaseExample\bin\Debug\dataBaseExample.pdb
+C:\Users\jason\Dropbox\UASLP\7 Semestre\Software B\dataBaseExample\dataBaseExample\bin\Debug\MySql.Data.dll
+C:\Users\jason\Dropbox\UASLP\7 Semestre\Software B\dataBaseExample\dataBaseExample\bin\Debug\System.Data.dll
+C:\Users\jason\Dropbox\UASLP\7 Semestre\Software B\dataBaseExample\dataBaseExample\bin\Debug\MySql.Data.xml
+C:\Users\jason\Dropbox\UASLP\7 Semestre\Software B\dataBaseExample\dataBaseExample\obj\Debug\dataBaseExample.csprojResolveAssemblyReference.cache
+C:\Users\jason\Dropbox\UASLP\7 Semestre\Software B\dataBaseExample\dataBaseExample\obj\Debug\dataBaseExample.Form1.resources
+C:\Users\jason\Dropbox\UASLP\7 Semestre\Software B\dataBaseExample\dataBaseExample\obj\Debug\dataBaseExample.Properties.Resources.resources
+C:\Users\jason\Dropbox\UASLP\7 Semestre\Software B\dataBaseExample\dataBaseExample\obj\Debug\dataBaseExample.csproj.GenerateResource.Cache
+C:\Users\jason\Dropbox\UASLP\7 Semestre\Software B\dataBaseExample\dataBaseExample\obj\Debug\dataBaseExample.csproj.CoreCompileInputs.cache
+C:\Users\jason\Dropbox\UASLP\7 Semestre\Software B\dataBaseExample\dataBaseExample\obj\Debug\dataBaseExample.exe
+C:\Users\jason\Dropbox\UASLP\7 Semestre\Software B\dataBaseExample\dataBaseExample\obj\Debug\dataBaseExample.pdb
